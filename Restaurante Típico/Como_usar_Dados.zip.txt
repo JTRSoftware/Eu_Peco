@@ -1,4 +1,4 @@
-Quando executa a aplicação pela primeira vez automáticamente é criada na localização da aplicação a pasta "Dados".
+Quando executa a aplicação pela primeira vez, automáticamente na localização de instalação da aplicação, é criada a pasta "Dados".
 
 A localização desta pasta pode ser alterada, veja como no ficheiro "Manual.pdf".
 
