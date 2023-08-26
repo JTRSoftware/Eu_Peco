@@ -1,0 +1,5 @@
+Quando executa a aplicação pela primeira vez automáticamente é criada na localização da aplicação a pasta "Dados".
+
+A localização desta pasta pode ser alterada, veja como no ficheiro "Manual.pdf".
+
+Extraia o contudo do ficheiro ZIP diretamente na pasta de dados da aplicação.
